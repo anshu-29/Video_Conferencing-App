@@ -71,11 +71,3 @@ This is a simple video conferencing app built with Express, Socket.IO, and PeerJ
 - The front-end is built using HTML, CSS, and JavaScript.
 - The app is inspired by video conferencing apps like Zoom and Microsoft Teams.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize the README file according to your specific requirements and add any additional information or instructions you find necessary.
-
-Let me know if you have any further questions!
